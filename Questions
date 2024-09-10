@@ -1,0 +1,12 @@
+5. Ta in en sträng och summera alla nummer i strängen (exempel:
+"5hej1jag34heter8ironman" = 5 + 1 + 3 + 4 + 8 = 21)
+
+6. Ta in ett tal och räkna ut fakulteten av talet (factorial)
+
+7. Skriv ett gissa-tal spel. Slumpa ett tal i början, och ta sedan in
+tal med Console.ReadLine tills man gissar rätt
+
+8. Skriv en enkel miniräknare som kan räkna ut addition, subtraktion,
+multiplikation och division mellan två tal
+
+9. Skriv en BMI räknare

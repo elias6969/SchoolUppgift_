@@ -1,0 +1,14 @@
+c:\Users\elias\SchoolUppgift\Names\bin\Debug\net8.0\Names.exe
+c:\Users\elias\SchoolUppgift\Names\bin\Debug\net8.0\Names.deps.json
+c:\Users\elias\SchoolUppgift\Names\bin\Debug\net8.0\Names.runtimeconfig.json
+c:\Users\elias\SchoolUppgift\Names\bin\Debug\net8.0\Names.dll
+c:\Users\elias\SchoolUppgift\Names\bin\Debug\net8.0\Names.pdb
+c:\Users\elias\SchoolUppgift\Names\obj\Debug\net8.0\Names.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\elias\SchoolUppgift\Names\obj\Debug\net8.0\Names.AssemblyInfoInputs.cache
+c:\Users\elias\SchoolUppgift\Names\obj\Debug\net8.0\Names.AssemblyInfo.cs
+c:\Users\elias\SchoolUppgift\Names\obj\Debug\net8.0\Names.csproj.CoreCompileInputs.cache
+c:\Users\elias\SchoolUppgift\Names\obj\Debug\net8.0\Names.dll
+c:\Users\elias\SchoolUppgift\Names\obj\Debug\net8.0\refint\Names.dll
+c:\Users\elias\SchoolUppgift\Names\obj\Debug\net8.0\Names.pdb
+c:\Users\elias\SchoolUppgift\Names\obj\Debug\net8.0\Names.genruntimeconfig.cache
+c:\Users\elias\SchoolUppgift\Names\obj\Debug\net8.0\ref\Names.dll
